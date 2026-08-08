@@ -35,13 +35,6 @@ Useful if you want to study how professionally designed landing pages tend to lo
 4. Paste the script and press Enter.
 5. Copy the results row and paste it wherever you're tracking data.
 
-**Option 2: Bookmarklet (faster)**
-
-1. Create a new bookmark in your browser.
-2. Paste the bookmarklet code as the URL.
-3. Name it something like "Page Stats."
-4. Visit any landing page and click the bookmark. The results are copied to your clipboard automatically.
-
 ## A few notes
 
 - Keep your browser window the same size across pages you're comparing. Resizing changes the screen-based metrics.
